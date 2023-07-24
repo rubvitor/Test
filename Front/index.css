@@ -1,0 +1,9 @@
+#tableUsuarios {
+    width: 100%;
+    border: 1px solid #000;
+}
+
+#tableUsuarios > thead > tr > th,
+#tableUsuarios > tbody > tr > td {
+    border: 1px solid #000;
+}
